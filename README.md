@@ -6,6 +6,6 @@ WeatherWatch is a comprehensive weather tracking application designed to provide
 
 - Current Weather: View real-time weather conditions including temperature, humidity, wind speed, and more for any location
 - Historical Data: Access historical weather data to explore past weather trends and patterns
-- Forecast: Receive forecasts for future weatehr conditions, allowing you to plan ahead with confidence
+- Forecast: Receive forecasts for future weather conditions, allowing you to plan ahead with confidence
 - User-Friendly Interface: An intuitive web interface makes it easy to input locations, navigate weather data, and visualize forecasts
 - Additional features will be added over time, including: tracking tropical storms, receiving weather reports via text message, and more!
