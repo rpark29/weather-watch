@@ -1,6 +1,6 @@
 # WeatherWatch
 
-WeatherWatch is a comprehensive weather tracking application designed to provide users with up-to-date weather informaition for any location worldwide.  Whether (weather haha) you're planning a trip, checking the weather for your daily commute, or simply curious about the forecast, WeatherWatch has you covered. WeatherWatch is a solo project intended to showcase personal skills and knowledge of programming.
+WeatherWatch is a comprehensive weather tracking application designed to provide users with up-to-date weather information for any location worldwide.  Whether (weather haha) you're planning a trip, checking the weather for your daily commute, or simply curious about the forecast, WeatherWatch has you covered. WeatherWatch is a solo project intended to showcase personal skills and knowledge of programming.
 
 # Features
 
